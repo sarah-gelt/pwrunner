@@ -1,0 +1,22 @@
+{
+  "name": "pwrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1",
+    "@types/node": "^20.4.2"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarah-gelt/pwrunner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarah-gelt/pwrunner/issues"
+  },
+  "homepage": "https://github.com/sarah-gelt/pwrunner#readme"
+}
